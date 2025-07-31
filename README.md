@@ -41,9 +41,9 @@ This powerful Python-based ADB toolkit is designed for hackers, pentesters, secu
 ## Install
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/adb-hacking-toolkit.git
+git clone https://github.com/akhilathomas06/bloody_dragon
+cd bloody_dragon
 bash requirements.sh
-cd adb-hacking-toolkit
 ```
 
 Make sure `adb` and `scrcpy` run correctly from your shell.
